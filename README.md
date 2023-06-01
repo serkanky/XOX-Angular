@@ -8,11 +8,9 @@
   
    ## 💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
   
-  Angular XOX, Angular framework'ü kullanarak geliştirilmiş bir web uygulamasıdır. 
-  
   Bu basit ama eğlenceli oyun bilgisayar ve oyuncu arasında geçen bir strateji oyunudur. 
   
-  Amacı 3x3'lük bir oyun tahtasında üç sembolü (genellikle X veya O) yatay dikey veya çapraz olarak sıralamaktır.
+  Amacı 3x3'lük bir oyun tahtasında üç sembolü (X veya O) yatay dikey veya çapraz olarak sıralamaktır.
   
   ## Özellikler  
   📌  Görsel olarak etkileyici kullanıcı arayüzü.
