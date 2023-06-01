@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/serkanky/XOX-Angular/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;theme=Dark" alt="project-image"></p>
 
-
+<p id="description">
   
   Angular XOX oyunu Angular framework'ü kullanarak geliştirilen bir web uygulamasıdır. 
   
