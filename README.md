@@ -1,28 +1,38 @@
-# Xox
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
-## Development server
+<h1 align="center" id="title">Angular XOX</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center"><img src="https://socialify.git.ci/serkanky/XOX-Angular/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;theme=Dark" alt="project-image"></p>
 
-## Code scaffolding
+<p id="description">
+  Angular XOX klasik XOX (Tic-Tac-Toe) oyununu Angular framework'ü kullanarak geliştirilen bir web uygulamasıdır. 
+  Bu basit ama eğlenceli oyun iki oyuncu arasında geçen bir strateji oyunudur. 
+  Amacı 3x3'lük bir oyun tahtasında üç sembolü (genellikle X veya O) yatay dikey veya çapraz olarak sıralamaktır.
+  
+  ## Özellikler - 
+  Görsel olarak etkileyici kullanıcı arayüzü - 
+  Oyuncu vs. Bilgisayar modu: Bilgisayara karşı oynama seçeneği -
+  Kazananı otomatik olarak tespit eden oyun mantığı - 
+  Oyun geçmişi özelliği</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
 
-## Build
+🎈 Geliştirme Sunucusu
+Geliştirme sunucusu için ng serve komutunu çalıştırın. Tarayıcınızı http://localhost:4200/ adresine yönlendirin. Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🎈 Kod Oluşturma
+Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
 
-## Running unit tests
+🎈 Derleme
+Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🎈 Birim Testlerin Çalıştırılması
+Karma aracılığıyla birim testlerin çalıştırılması için ng test komutunu kullanın.
 
-## Running end-to-end tests
+🎈 Uçtan Uca Testlerin Çalıştırılması
+Seçtiğiniz bir platform üzerinde uçtan uca testlerin çalıştırılması için ng e2e komutunu kullanın. Bu komutu kullanabilmek için öncelikle uçtan uca test yeteneklerini uygulayan bir paket eklemeniz gerekmektedir.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🎈 Daha Fazla Yardım
+Angular CLI hakkında daha fazla yardım almak için ng help komutunu kullanabilir veya Angular CLI Genel Bakış ve Komut Referansı sayfasını ziyaret edebilirsiniz.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# XOX-Angular
+© 2023 XOX-Angular. Tüm hakları saklıdır. Oyunu oynamak ve katkıda bulunmak için lütfen projeyle ilgili belirtilen adımları takip edin.
