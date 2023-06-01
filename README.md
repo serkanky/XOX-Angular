@@ -22,28 +22,33 @@
   📌  Oyun geçmişi özelliği.
 
   
-   ## BAZI YARDIMCI BİLGİLER
+   ## Aşağıda, projeye katkıda bulunmak için izlemeniz gereken adımları içeren bir yol haritası bulunmaktadır:
   
-   🎈 Geliştirme Sunucusu
-   - Geliştirme sunucusu için ng serve komutunu çalıştırın. 
-   - Tarayıcınızı http://localhost:4200/ adresine yönlendirin. 
-   - Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
+   🎈 Depoyu indirin: Projeyi yerel makinenize klonlayın. Bunun için aşağıdaki komutu kullanabilirsiniz:
+   ## git clone https://github.com/serkanky/XOX-Angular.git
 
-   🎈 Kod Oluşturma
-   - Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. 
-   - Ayrıca ng generate directive | pipe | service | class | guard | interface | enum | module komutlarını da kullanabilirsiniz.
+   🎈 Geliştirme Ortamını Kurun: Projenin çalışması için geliştirme ortamınızı hazırlamanız gerekmektedir. Aşağıdaki adımları takip edin:
+   - Node.js kurulumunu yapın.
+   - Node.js kurulumunuzun başarılı olduğunu doğrulamak için terminalde node -v ve npm -v komutlarını çalıştırın.
+   - Terminalde proje klasörüne gidin (cd XOX-Angular) ve aşağıdaki komutu çalıştırarak projenin bağımlılıklarını yükleyin:
+   ## npm install
     
-   🎈 Derleme
-   - Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
+   🎈 Test Edin: Yaptığınız değişikliklerin doğru çalıştığından emin olmak için mevcut testleri çalıştırın veya yeni testler ekleyin. Bunun için terminalde aşağıdaki komutu kullanabilirsiniz:
+   ## ng test
 
-   🎈 Birim Testlerin Çalıştırılması
-   - Karma aracılığıyla birim testlerin çalıştırılması için ng test komutunu kullanın.
 
-   🎈 Uçtan Uca Testlerin Çalıştırılması
-   - Seçtiğiniz bir platform üzerinde uçtan uca testlerin çalıştırılması için ng e2e komutunu kullanın. 
-   - Bu komutu kullanabilmek için öncelikle uçtan uca test yeteneklerini uygulayan bir paket eklemeniz gerekmektedir.
+   🎈 Kodu Gönderin: Yaptığınız değişiklikleri GitHub reposuna göndermek için aşağıdaki adımları takip edin:
+    - Terminalde proje klasöründe olduğunuzdan emin olun.
+    - Yaptığınız değişiklikleri git'e ekleyin:
+    ## git add .
+  
+   🎈 Değişiklikleri bir git commit'i olarak kaydedin:
+    ## git commit -m "Açıklama"
 
-   🎈 Daha Fazla Yardım
-   - Angular CLI hakkında daha fazla yardım almak için ng help komutunu kullanabilir veya Angular CLI Genel Bakış ve Komut Referansı sayfasını ziyaret edebilirsiniz.
+   🎈 Değişiklikleri GitHub reposuna gönderin:
+    ## git push origin main
+  
+    🎈 Pull Talebi Oluşturun: GitHub reposunda yaptığınız değişiklikleri ana projeye dahil etmek için bir "Pull Talebi" (Pull Request) oluşturun. 
+    - Pull Talebi oluştururken yapılan değişiklikler hakkında açıklayıcı bir başlık ve açıklama eklemeyi unutmayın.
 
    © 2023 XOX-Angular. Tüm hakları saklıdır. Oyunu oynamak ve katkıda bulunmak için lütfen projeyle ilgili belirtilen adımları takip edin.
