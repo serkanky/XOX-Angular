@@ -33,11 +33,11 @@
    - Node.js kurulumunuzun başarılı olduğunu doğrulamak için terminalde node -v ve npm -v komutlarını çalıştırın.
    - Terminalde proje klasörüne gidin (cd XOX-Angular) ve aşağıdaki komutu çalıştırarak projenin bağımlılıklarını yükleyin:
   
-   ## npm install
+   ## npm install 
     
    🎈 Test Edin: Yaptığınız değişikliklerin doğru çalıştığından emin olmak için mevcut testleri çalıştırın veya yeni testler ekleyin. Bunun için terminalde aşağıdaki komutu kullanabilirsiniz:
   
-   ## ng test
+   ## ng test 
 
 
    🎈 Kodu Gönderin: Yaptığınız değişiklikleri GitHub reposuna göndermek için aşağıdaki adımları takip edin:
