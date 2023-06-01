@@ -6,14 +6,19 @@
 
 <p id="description">
   Angular XOX klasik XOX (Tic-Tac-Toe) oyununu Angular framework'ü kullanarak geliştirilen bir web uygulamasıdır. 
+  
   Bu basit ama eğlenceli oyun iki oyuncu arasında geçen bir strateji oyunudur. 
+  
   Amacı 3x3'lük bir oyun tahtasında üç sembolü (genellikle X veya O) yatay dikey veya çapraz olarak sıralamaktır.
   
   ## Özellikler - 
-  📌  Görsel olarak etkileyici kullanıcı arayüzü - 
-  📌  Oyuncu vs. Bilgisayar modu: Bilgisayara karşı oynama seçeneği -
-  📌  Kazananı otomatik olarak tespit eden oyun mantığı - 
-  📌  Oyun geçmişi özelliği </p>
+  📌  Görsel olarak etkileyici kullanıcı arayüzü.
+  
+  📌  Oyuncu vs. Bilgisayar modu: Bilgisayara karşı oynama seçeneği.
+  
+  📌  Kazananı otomatik olarak tespit eden oyun mantığı. 
+  
+  📌  Oyun geçmişi özelliği.
 
   💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
 
