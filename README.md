@@ -6,9 +6,11 @@
 
 <p id="description">
   
-  Angular XOX oyunu Angular framework'ü kullanarak geliştirilen bir web uygulamasıdır. 
+   ## 💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
   
-  Bu basit ama eğlenceli oyun iki oyuncu arasında geçen bir strateji oyunudur. 
+  Angular XOX, Angular framework'ü kullanarak geliştirilmiş bir web uygulamasıdır. 
+  
+  Bu basit ama eğlenceli oyun bilgisayar ve oyuncu arasında geçen bir strateji oyunudur. 
   
   Amacı 3x3'lük bir oyun tahtasında üç sembolü (genellikle X veya O) yatay dikey veya çapraz olarak sıralamaktır.
   
@@ -21,7 +23,6 @@
   
   📌  Oyun geçmişi özelliği.
 
-  ## 💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
 
    🎈 Geliştirme Sunucusu
     Geliştirme sunucusu için ng serve komutunu çalıştırın. Tarayıcınızı http://localhost:4200/ adresine yönlendirin. Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
