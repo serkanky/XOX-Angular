@@ -25,22 +25,25 @@
    ## BAZI YARDIMCI BİLGİLER
   
    🎈 Geliştirme Sunucusu
-    Geliştirme sunucusu için ng serve komutunu çalıştırın. Tarayıcınızı http://localhost:4200/ adresine yönlendirin. Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
+    Geliştirme sunucusu için ng serve komutunu çalıştırın. 
+   - Tarayıcınızı http://localhost:4200/ adresine yönlendirin. 
+   - Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
 
    🎈 Kod Oluşturma
-    Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. 
-    Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
+    - Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. 
+    - Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
     
    🎈 Derleme
-    Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
+    - Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
 
    🎈 Birim Testlerin Çalıştırılması
-    Karma aracılığıyla birim testlerin çalıştırılması için ng test komutunu kullanın.
+    - Karma aracılığıyla birim testlerin çalıştırılması için ng test komutunu kullanın.
 
    🎈 Uçtan Uca Testlerin Çalıştırılması
-    Seçtiğiniz bir platform üzerinde uçtan uca testlerin çalıştırılması için ng e2e komutunu kullanın. Bu komutu kullanabilmek için öncelikle uçtan uca test yeteneklerini uygulayan bir paket eklemeniz gerekmektedir.
+    - Seçtiğiniz bir platform üzerinde uçtan uca testlerin çalıştırılması için ng e2e komutunu kullanın. 
+    - Bu komutu kullanabilmek için öncelikle uçtan uca test yeteneklerini uygulayan bir paket eklemeniz gerekmektedir.
 
    🎈 Daha Fazla Yardım
-    Angular CLI hakkında daha fazla yardım almak için ng help komutunu kullanabilir veya Angular CLI Genel Bakış ve Komut Referansı sayfasını ziyaret edebilirsiniz.
+    - Angular CLI hakkında daha fazla yardım almak için ng help komutunu kullanabilir veya Angular CLI Genel Bakış ve Komut Referansı sayfasını ziyaret edebilirsiniz.
 
    © 2023 XOX-Angular. Tüm hakları saklıdır. Oyunu oynamak ve katkıda bulunmak için lütfen projeyle ilgili belirtilen adımları takip edin.
