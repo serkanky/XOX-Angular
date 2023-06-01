@@ -55,4 +55,4 @@
    🎈 Pull Talebi Oluşturun: GitHub reposunda yaptığınız değişiklikleri ana projeye dahil etmek için bir "Pull Talebi" (Pull Request) oluşturun. 
      Pull Talebi oluştururken yapılan değişiklikler hakkında açıklayıcı bir başlık ve açıklama eklemeyi unutmayın.
 
-   - © 2023 XOX-Angular. Tüm hakları saklıdır. Oyunu oynamak ve katkıda bulunmak için lütfen projeyle ilgili belirtilen adımları takip edin. -
+   - © 2023 XOX-Angular. Tüm hakları saklıdır. Oyunu oynamak ve katkıda bulunmak için lütfen projeyle ilgili belirtilen adımları takip edin. 
