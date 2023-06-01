@@ -12,7 +12,7 @@
   
   Amacı 3x3'lük bir oyun tahtasında üç sembolü (genellikle X veya O) yatay dikey veya çapraz olarak sıralamaktır.
   
-  ## Özellikler - 
+  ## Özellikler  
   📌  Görsel olarak etkileyici kullanıcı arayüzü.
   
   📌  Oyuncu vs. Bilgisayar modu: Bilgisayara karşı oynama seçeneği.
@@ -21,7 +21,7 @@
   
   📌  Oyun geçmişi özelliği.
 
-  💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
+  ## 💻 Bu proje Angular CLI versiyon 15.1.6 kullanılarak oluşturulmuştur.
 
    🎈 Geliştirme Sunucusu
     Geliştirme sunucusu için ng serve komutunu çalıştırın. Tarayıcınızı http://localhost:4200/ adresine yönlendirin. Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
