@@ -20,15 +20,16 @@
   📌  Kazananı otomatik olarak tespit eden oyun mantığı. 
   
   📌  Oyun geçmişi özelliği.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
   
-     ## BAZI YARDIMCI BİLGİLER
+   ## BAZI YARDIMCI BİLGİLER
   
    🎈 Geliştirme Sunucusu
     Geliştirme sunucusu için ng serve komutunu çalıştırın. Tarayıcınızı http://localhost:4200/ adresine yönlendirin. Uygulama, kaynak dosyalarından herhangi birini değiştirdiğinizde otomatik olarak yeniden yüklenecektir.
 
    🎈 Kod Oluşturma
-    Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
+    Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. 
+    Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
     
    🎈 Derleme
     Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
