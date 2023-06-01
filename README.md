@@ -12,6 +12,8 @@
   
   Amacı 3x3'lük bir oyun tahtasında üç sembolü (X veya O) yatay dikey veya çapraz olarak sıralamaktır.
   
+  ![Adsız1](https://github.com/serkanky/XOX-Angular/assets/124188116/ac30b753-85fc-4823-8b66-031e623381df)
+  
   ## Özellikler  
   📌  Görsel olarak etkileyici kullanıcı arayüzü.
   
