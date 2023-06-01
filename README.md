@@ -39,7 +39,6 @@
   
    ## ng test 
 
-
    🎈 Kodu Gönderin: Yaptığınız değişiklikleri GitHub reposuna göndermek için aşağıdaki adımları takip edin:
     - Terminalde proje klasöründe olduğunuzdan emin olun.
     - Yaptığınız değişiklikleri git'e ekleyin:
