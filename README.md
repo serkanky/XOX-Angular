@@ -31,7 +31,7 @@
 
    🎈 Kod Oluşturma
    - Yeni bir bileşen oluşturmak için ng generate component component-name komutunu kullanabilirsiniz. 
-   - Ayrıca ng generate directive|pipe|service|class|guard|interface|enum|module komutlarını da kullanabilirsiniz.
+   - Ayrıca ng generate directive | pipe | service | class | guard | interface | enum | module komutlarını da kullanabilirsiniz.
     
    🎈 Derleme
    - Projenin derlenmesi için ng build komutunu çalıştırın. Derleme çıktıları dist/ dizininde saklanacaktır.
